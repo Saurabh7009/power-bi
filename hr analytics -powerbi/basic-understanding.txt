@@ -1,0 +1,16 @@
+1. Objective of the Project:
+The goal was to create an interactive HR Analytics Dashboard in Power BI, providing HR professionals
+and management with real-time data-driven insights. The focus was on tracking employee attrition, job satisfaction, 
+and demographic details to enhance decision-making for HR strategies and employee retention initiatives.
+
+**Key KPIs Visualized:**
+
+1. **Employee Count**: A dynamic count of total employees displayed on the dashboard using Power BI card visuals.
+2. **Attrition Count and Rate**: Used DAX calculations to compute attrition and attrition rates. These were visualized in bar charts and line graphs to track trends over time.
+3. **Active Employees**: Displayed the number of currently active employees using data filtering techniques.
+4. **Average Age of FTE Employees**: Leveraged **Power BI’s DAX functions** to calculate and visualize the average age of full-time employees.
+5. **Department-wise Attrition**: Departmental attrition rates visualized through stacked bar charts, allowing users to drill down into departments with high turnover.
+6. **Number of Employees by Age Group**: Segregated employees into age ranges, shown via a **donut chart** to reflect the age distribution.
+7. **Job Satisfaction Ratings by Job Role**: Used heat maps and bar charts to display employee satisfaction ratings categorized by job roles.
+8. **Degree Attainment by Employees**: Visualized the educational background of employees using a **clustered column chart** and examined attrition trends by degree.
+9. **Education Field-wise Attrition**: Showcased the attrition rate by education field, with the ability to filter by department, role, and satisfaction levels.
